@@ -1,6 +1,6 @@
 
 P1 = Player 1
-P1 = Player 2
+P2 = Player 2
 PVP = Player vs Player
 PVC = Player vs Computer
 
